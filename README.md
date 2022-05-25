@@ -1,2 +1,2 @@
 # e-hayvan
-Django-React ve React-Native kullanarak oluşturduğum web ve mobil uygulamalarım
+Bitirme projesi kapsamında geliştirmeye devam ediyor olduğum projem. Django-React ve React-Native kullanarak oluşturduğum web ve mobil uygulamalarından oluşuyor.
